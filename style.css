@@ -1,0 +1,14 @@
+.container{
+    background-color: lightblue;
+    padding-top: 30px;
+}
+#container2{
+    overflow: auto;
+}
+.display-3{
+    padding-bottom: 30px;
+}
+#form{
+    padding-top: 35px;
+    border-top: 1px solid #E7E7E7;
+}
